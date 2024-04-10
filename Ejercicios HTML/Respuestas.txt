@@ -1,0 +1,25 @@
+1-La propiedad de CSS que permite cambiar el comportamiento de los elementos
+en un contenedor para lograr un diseño flexible y eficiente es display. 
+Algunos de los valores comunes de esta propiedad incluyen block, inline, inline-block, 
+flex y grid, los cuales proporcionan diferentes formas de controlar la disposición y 
+el flujo de los elementos en la página web.
+
+2-La propiedad gap en CSS define el espacio entre elementos hijos dentro de un contenedor flex o grid. 
+Para contenedores flexibles, controla el espacio entre elementos a lo largo del eje principal, 
+mientras que en contenedores de cuadrícula, define el espacio entre celdas.
+
+3-justify-content afecta la alineación a lo largo del eje principal, 
+mientras que align-items afecta la alineación en el eje transversal.
+
+4-La propiedad de CSS para definir el tamaño de filas y columnas en un contenedor grid son
+grid-template-rows: Define el tamaño de las filas.
+Y grid-template-columns: Define el tamaño de las columnas.
+
+5-display: flex Organiza los elementos secundarios a lo largo de una sola dirección (fila o columna). 
+Y display: grid Organiza los elementos secundarios en una cuadrícula bidimensional,
+permitiendo un control más preciso y flexibilidad en el diseño.
+
+6-Para alinear elementos hijos dentro de un contenedor flex en CSS usamos align-items para alinear verticalmente,
+y justify-content para alinear horizontalmente.
+
+
