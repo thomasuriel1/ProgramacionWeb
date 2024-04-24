@@ -49,6 +49,45 @@
     text-align: center;
 }
 
-.colorCuadro{
-    background-color: blue;
+.colorCuadroAgua{
+    background-color: rgb(20, 102, 196);
+    border-radius: 10px;
+    
 }
+
+.colorCuadroPlanta{
+    background-color: rgb(11, 153, 70);
+    border-radius: 10px;
+    
+}
+.colorCuadroNormal{
+    background-color: rgb(97, 107, 161);
+    border-radius: 10px;
+    
+}
+.colorCuadroLucha{
+    background-color: rgb(177, 45, 45);
+    border-radius: 10px;
+    
+}
+.colorCuadroFuego{
+    background-color: rgb(211, 123, 41);
+    border-radius: 10px;
+    
+}
+.colorCuadroElectrico{
+    background-color: rgb(180, 136, 40);
+    border-radius: 10px;
+    
+}
+.colorLetra{
+    font-style: italic ;
+    color: white;
+}
+
+.sinFondo{
+    background-color:rgb(104, 149, 155);
+    background-size: cover;
+    
+}
+
