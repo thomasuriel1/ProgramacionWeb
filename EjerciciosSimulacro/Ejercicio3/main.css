@@ -1,0 +1,12 @@
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+.margen{
+    display: flex;
+    justify-content: center;
+    margin-right: 85px ;
+}
+button{
+    background-color: rgb(116, 198, 236);
+}

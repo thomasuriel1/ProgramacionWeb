@@ -1,0 +1,11 @@
+.colorNombre {
+    width: 20%;
+    background-color: rgb(231, 31, 31);
+    font-family: sans-serif;
+}
+
+.imagen {
+    border-radius: 30px;
+    width: 400px;
+}
+
