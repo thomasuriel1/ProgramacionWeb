@@ -1,0 +1,35 @@
+.character-list {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background-color: #8f81a7;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-body {
+  padding: 16px;
+}
+
+.card-body h2 {
+  margin-bottom: 8px;
+}
+
+.card-body p {
+  margin-bottom: 6px;
+}
