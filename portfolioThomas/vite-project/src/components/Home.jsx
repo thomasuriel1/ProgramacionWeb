@@ -1,11 +1,11 @@
-// src/components/Home.jsx
+
 import React from "react";
 
-function Home() {
+function Home () {
   return (
     <section id="home">
-      <h1>Bienvenido a mi portafolio</h1>
-      <p>Hola, soy Thomas Laura. Esta es una página de portafolio simple.</p>
+      <h1>Hola, soy Thomas Laura, bienvenido a mi portafolio</h1>
+      <h4>Esta es una página de portafolio simple.</h4>
     </section>
   );
 }

@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import Home from "./components/Home";
 import About from "./components/About";
 import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import Contacto from "./components/Contacto";
 import "./styles/App.css";
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
       case "projects":
         return <Projects />;
       case "contact":
-        return <Contact />;
+        return <Contacto />;
       default:
         return <Home />;
     }

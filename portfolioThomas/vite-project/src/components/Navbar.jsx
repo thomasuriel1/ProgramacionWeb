@@ -1,14 +1,14 @@
-// src/components/Navbar.jsx
+
 import React from "react";
 
 function Navbar({ setCurrentPage }) {
   return (
     <nav>
       <ul>
-        <li onClick={() => setCurrentPage("home")}>Home</li>
-        <li onClick={() => setCurrentPage("about")}>About</li>
-        <li onClick={() => setCurrentPage("projects")}>Projects</li>
-        <li onClick={() => setCurrentPage("contact")}>Contact</li>
+        <li onClick={() => setCurrentPage("home")}>Inicio</li>
+        <li onClick={() => setCurrentPage("about")}>Sobre Mi</li>
+        <li onClick={() => setCurrentPage("projects")}>Projectos</li>
+        <li onClick={() => setCurrentPage("contact")}>Contacto</li>
       </ul>
     </nav>
   );

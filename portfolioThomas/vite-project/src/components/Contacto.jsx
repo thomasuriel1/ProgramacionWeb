@@ -1,7 +1,7 @@
-// src/components/Contact.jsx
+
 import React from "react";
 
-function Contact() {
+function Contacto() {
   return (
     <div>
       <h1>Contacto</h1>
@@ -13,4 +13,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Contacto;
