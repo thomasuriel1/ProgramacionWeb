@@ -6,6 +6,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.achicar {
+  width: 1000px;
+  height: 500px;
+}
+
 .App {
   display: flex;
   flex-direction: column;
@@ -73,3 +78,10 @@ footer {
     align-items: center;
   }
 }
+
+.link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+};
+

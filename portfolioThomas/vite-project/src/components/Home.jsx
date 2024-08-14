@@ -5,7 +5,10 @@ function Home () {
   return (
     <section id="home">
       <h1>Hola, soy Thomas Laura, bienvenido a mi portafolio</h1>
-      <h4>Esta es una página de portafolio simple.</h4>
+      <h3>Esta es una página de portafolio simple.</h3>
+      <div>
+        <img src="riki.png" />
+        </div>  
     </section>
   );
 }
