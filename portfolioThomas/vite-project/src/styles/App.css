@@ -10,6 +10,14 @@ body {
   width: 1000px;
   height: 500px;
 }
+.achicarNormal {
+  width: 400px;
+  height: 500px;
+}
+.achicarMon {
+  width: 800px;
+  height: 400px;
+}
 
 .App {
   display: flex;
