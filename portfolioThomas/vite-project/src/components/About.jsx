@@ -1,4 +1,3 @@
-
 import React from "react";
 
 function About() {
@@ -10,8 +9,8 @@ function About() {
         Tecnica de la Universidad de Buenos Aires y curso el 5to año de
         secundaria.
       </h3>
-      <div >
-        <img className="achicar" src="uba.jpg"/>
+      <div>
+        <img className="achicar" src="uba.jpg" />
       </div>
     </div>
   );
